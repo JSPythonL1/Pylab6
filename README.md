@@ -24,7 +24,7 @@ else:
     print("No mach")
 ```
 
-Funkcja `serch` zwraca obiekt za pomocą kilku metod, które podają szczegóły na jego temat.
+Funkcja `search` zwraca obiekt za pomocą kilku metod, które podają szczegóły na jego temat.
 Te metody obejmują grupę, która zwraca dopasowany ciąg, początek i koniec, które zwracają pozycje początkową i końcową pierwszego dopasowania, i zakres, który zwraca pozycje początkową i końcową pierwszego dopasowania jako krotkę.
 ```Python
 import re

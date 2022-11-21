@@ -1,7 +1,7 @@
 # Język skryptowy lab6
 
 ### Wyrażenia regularne
-Wyrażenia egularne są potężnym narzędziem do różnego rodzaju manipulacji ciągami znaków.
+Wyrażenia regularne są potężnym narzędziem do różnego rodzaju manipulacji ciągami znaków.
 Są obecne jako biblioteki w większości nowoczesnych języków programowania, a nie tylko w Pythonie.
 Są przydatne do dwóch głównych zadań:
 - sprawdzenie, czy ciągi są zgodne z wzorcem (na przykład, że ciąg ma format adresu e-mail),
